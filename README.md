@@ -40,6 +40,12 @@ A modern and minimal coffee shop front-end UI built using **HTML**, **CSS**, and
 
 ---
 
+
+## 💙 Author
+Crafted with ☕ and 💻 by Prem Kumar
+
+---
+
 ## ⚙️ How to Run Locally
 
 1. Clone the repository:
@@ -49,6 +55,3 @@ git clone https://github.com/prem2621/coffee-bucket.git
 
 ---
 
-
-## 💙 Author
-Crafted with ☕ and 💻 by Prem Kumar
